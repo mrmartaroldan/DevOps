@@ -1,3 +1,20 @@
+# Despliegue en Servidor
+
+IP
+
+* [Web con bootstrap](http://13.58.158.37/)
+
+DNS
+
+* [Documentación Nodepop](http://ec2-13-58-158-37.us-east-2.compute.amazonaws.com/)
+
+SIMULACIÓN DOMINIO
+
+* [Documentación Nodepop](http://nodepop.mrmartaroldan.com/)
+
+Para ello modifiqué el fichero **C:\Windows\System32\drivers\etc\hosts**
+
+Añadí **13.58.158.37 nodepop.mrmartaroldan.com**
 
 # NodePop
 
